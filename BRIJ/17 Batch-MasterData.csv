@@ -1,0 +1,211 @@
+﻿S.No, ROLL NO,STUDENT NAME,GENDER,BRANCH,10TH CGPA / %,INTER,Number of ACTIVE BACKLOGS,NO OF PASSIVE BACKLOGS,10TH BOARD NAME,10TH YEAR OF PASSING,10TH SCHOOL NAME,12TH / DIPLOMA BOARD NAME,12TH / DIPLOMA YEAR OF PASSING,12TH / DIPLOMA COLLEGE NAME,Entrance Mode for Admission into VNR,EAMCET RANK,ECET RANK,JEE RANK,CATEGORY,STUDENT NAME WITHOUT SURNAME,FIRST LETTER OF SURNAME,SEM_1,SEM_2,SEM_3,SEM_4,SEM_4_AVG,STUDENT CITY,Registration for Placements/ Higher Education
+1,17071A1201,A SWETHA,FEMALE,IT,9,92.7,0,0,SSC,2015,Dilsukhnagar public school,BOI,2017,Sri Chaitanya junior kalasala,EAMCET,36485,,,SC,Swetha,A,8.16,7.88,8.22,7.74,8,Hyderabad,Placements
+2,17071A1202,AKASH MALLEPULA,MALE,IT,77,78,0,0,ICSE,2015,The future kid's school,OTHERS,2017,The future kid's school,EAMCET,,,,OTHERS,Akash,M,8.24,7.7,,,,Hyderabad,Placements
+3,17071A1203,AKKAPALLI MANISH,MALE,IT,8.8,90.7,0,0,SSC,2015,JOHNSON GRAMMAR SCHOOL,BOI,2017,Narayana Junior College,EAMCET,19458,,,BC,Manish,A,7.32,8.16,8.52,7.48,7.87,Hyderabad,Placements
+4,17071A1204,ALLURI SAI PALANI AMULYA,FEMALE,IT,8.6,93.5,0,0,CBSE,2015,Bhartiya Vidya Bhavans Public School ,BOI,2017,Narayana Junior College,NRI,28205,,,OC,Sai Palani Amulya,,8,7.72,8.22,7.74,7.92,Hyderabad,Placements
+5,17071A1205,ARRA AASHRITHA,FEMALE,IT,9.7,94.9,0,0,SSC,2015,Narayana school,BOI,2017,narayana junior college,EAMCET,4793,,,OC,Aashritha,A,8.96,9.2,9.39,9.04,9.15,hyderabad,Placements
+6,17071A1206,BANDARAM RAMYA,FEMALE,IT,8.7,88.8,2,,SSC,2015,Tsrs ,BOI,2017,SR junior college,EAMCET,32146,,,SC,Ramya,B,,,,,,hyderabad,Placements
+7,17071A1207,BANOTH GEETHANJALI,FEMALE,IT,9.6,82.4,0,0,CBSE,2014,"ST. ANSELM'S PINK CITY SR. SEC. SCHOOL ,MALVIYA NAGAR, JAIPUR",CBSE,2016,"ST. ANSELM'S PINK CITY SR. SEC. SCHOOL,MALVIYA NAGAR, JAIPUR",EAMCET,34528,,,ST,Geethanjali,B,8.52,8.64,9.61,9.13,8.98,Hyderabad,Placements
+8,17071A1208,BARU LALITH BHARADWAJ,MALE,IT,9.5,87.5,0,0,SSC,2014,Triveni School,BOI,2016,Narayana junior college,JEE,,,33350,OC,Lalith Bharadwaj,B,8.32,8.12,7.48,6.87,7.7,Hyderabad,Others
+9,17071A1209,CHEEMALA SHIVANI,FEMALE,IT,9.2,90,0,0,SSC,2015,sri chaitanya techno school,BOI,2017,sri Chaitanya Junior Kalasala,NRI,,,,OC,Shivani ,CH,7.52,7.78,8.17,8.57,8.23,HYderabad,Placements
+10,17071A1210,CHOPPARAPU VENKATA LOHIT,MALE,IT,9.5,96.1,0,0,SSC,2015,Sri Gurudatta High School,BOI,2017,Sri Chaitanya Junior Kalasala,JEE,11051,,97927,OC,Venkata Lohit,CH,7.8,8.4,7.65,8.22,8.02,HYDERABAD,Placements
+11,17071A1211,EMMADI HRUSHIKESH,MALE,IT,9.7,96,0,0,SSC,2015,swami vivekananda high school,BOI,2017,Narayana junior college,EAMCET,4344,,,OC,HRUSHIKESH,E,9.4,9.2,9.52,9.09,9.3,HANAMKONDA,Placements
+12,17071A1212,G K R MANASA,FEMALE,IT,10,9.52,0,0,SSC,2015,Narayana E-techno school,BOI,2017,Narayana junior college,EAMCET,,,,OC,Manasa,G,8.84,8.2,8.57,8.43,8.51,Hyderabad,Placements
+13,17071A1213,G SRI LASYA,FEMALE,IT,8.8,8.8,2,0,SSC,2015,Sri Chaitanya techno school,BOI,2017,Sri Chaitanya junior kalasala,EAMCET,25600,,,OC,Sri Lasya,G,7.2,,6,,6.3,hyderabad,Placements
+14,17071A1214,GADDAM SRI LAXMI,FEMALE,IT,9.7,98.3,0,0,SSC,2015,R.B.V.R.R High School,BOI,2017,Sri Chaitanya Junior College,EAMCET,5683,,,OC,Srilaxmi,G,8.48,8.32,6.78,7.65,7.81,Nizamabad,Placements
+15,17071A1215,GRANDHE SAHITHI,FEMALE,IT,9.3,94.4,0,0,SSC,2015,Sri Sai Vijetha concept school,BOI,2017,Sri Chaitanya junior college ,EAMCET,3190,,,OC,sahithi,G,7.68,7.2,6.83,6.7,7.1,Tadipatri,Placements
+16,17071A1216,GUDIPATI VENKATA SAI SRIDHAR REDDY,MALE,IT,9.3,94.3,0,0,SSC,2015,kTR High School,BOI,2017,Narayana junior college,NRI,,,,OC,Venkata Sai Sridhar  Reddy,G,7.08,6.96,6.3,6.43,6.7,Kanigiri,Placements
+17,17071A1217,GUNDETI ARUNA,FEMALE,IT,9.7,97.5,0,0,SSC,2015,Tejaswi High School,BOI,2017,Sri Chaitanya junior college,EAMCET,6128,,,BC,ARUNA,G,8.6,8.76,9.35,8.65,8.84,KARIMNAGAR,Placements
+18,17071A1218,RITHVIK VARMA GOTTIMUKKALA,MALE,IT,9.4,86,0,0,CBSE,2015,DRS International School,CBSE,2017,Sadhu Vaswani International School,NRI,-,,,OC,Rithvik Varma,G,7.6,7.25,7.9,6.83,7.4,Hyderabad,Higher Education
+19,17071A1219,JAINI SAI RAJESH,MALE,IT,9.7,98.4,0,0,SSC,2015,Abhyas Techno school,BOI,2017,Sri Gayatri Junior College,EAMCET,3816,,,OC,Sai rajesh,J,9.4,9.6,9.57,9.43,9.5,Miryalaguda,Placements
+20,17071A1220,K LAKSHMI SOWMYA,FEMALE,IT,9.5,97.5,0,0,SSC,2015,triveni school,BOI,2017,sri chaitanya junior kalasala,EAMCET,5461,,89251,OC,Lakshmi Sowmya,K,9.28,9.64,9.74,9.61,9.56,hyderabad,Placements
+21,17071A1222,KAMATAM SAHASRA,FEMALE,IT,8.2,93.5,0,0,CBSE,2015,aazan international school,BOI,2017,narayana junior college,EAMCET,31609,,,SC,sahasra,k,7.72,8.56,8.22,8.26,8.19,hyderabad,Placements
+22,17071A1223,KANTHALA NIKHIL RAJA REDDY,MALE,IT,9.8,98.4,0,0,SSC,2015,Johnson Global High School,BOI,2017,Sri Venkateshwara Junior College,EAMCET,8067,,,OC,Nikhil Raja Reddy,k,8.92,9.48,9.39,8.65,9.11,karimnagar,Placements
+23,17071A1224,KANUMOLU SAI VARDHAN,MALE,IT,9.5,92.7,0,0,SSC,2015,Krishnaveni Talent School,BOI,2017,Sri Chaitanya junior college,EAMCET,10735,,,,Sai Vardhan,K,7.84,8.72,7.57,7.57,7.93,Hyderabad,Placements
+24,17071A1225,KILARI SRIHITHA,FEMALE,IT,10,96.8,0,0,CBSE,2015,Harvest public school,BOI,2017,Narayana junior college,EAMCET,4008,,,OC,Srihitha,K,8.6,8.16,8.57,7.83,8.29,Khammam,Placements
+25,17071A1226,KODUMURU SANKEERTHANA,FEMALE,IT,9.7,94,0,0,SSC,2015,Sri Chaitanya School,BOI,2017,Sri Chaitanya junior college,EAMCET,5555,,,OC,sankeerthana,k,8.8,9.4,9.39,8.74,9.08,Khammam,Placements
+26,17071A1227,KOLLI ADITYA,MALE,IT,9.8,97.5,0,0,SSC,2015,Gowtham model school,BOI,2017,Sri Chaitanya junior college,NRI,,,,OC,Aditya,K,8.64,8.44,9.04,9.3,8.85,Hyderabad,Placements
+27,17071A1228,KOLLURU SHRIKANTH ROHITH,MALE,IT,9.5,95.5,0,0,SSC,2015,Sri Chaitanya School,BOI,2017,Leela Junior College,EAMCET,,,,OC,Shrikanth Rohith,K,8.8,8.88,8.74,8.26,8.6,Hyderabad,Placements
+28,17071A1229,KOMATINENI AVINASH,MALE,IT,8.8,87.9,0,0,SSC,2014,Bhashyam High School,BOI,2016,Sri Chaitanya junior college,EAMCET,2521,,23521,OC,Avinash,K,7.43,7.47,7.48,7.3,7.42,Chilakaluripeta,Placements
+29,17071A1230,KOMMU SRI AMULYA,FEMALE,IT,8,80,6,0,SSC,2015,SRI CHAITANYA TECHNO SCHOOL,BOI,2017,SRI CHAITANYA JUNIOR COLLAGE,EAMCET,46625,,,SC,sri amulya,k,,,,,,Hyderabad,Placements
+30,17071A1231,KOSARAJU NAGA PAVAN VAIBHAV,MALE,IT,7.8,83.2,1,0,CBSE,2015,Navayabharathi global school,BOI,2017,Narayana junior college,NRI,,,,OC,Naga Pavan Vaibhav,K,6.28,6.8,6.48,6.3,6.5,Bodhan,Placements
+31,17071A1232,KUCHI SAI SUMEDH,MALE,IT,9.7,95,0,0,SSC,2015,Sri Chaitanya Techno School,BOI,2017,Sri chaitanya junior kalasala,NRI,10599,,,OC,Sai Sumedh,K,8.44,7.43,7.78,7.52,7.8,Hyderabad,Placements
+32,17071A1233,M. L. AISHWARYA,FEMALE,IT,7.4,0.66,4,,CBSE,2015,Bhavan's sri ramakrishna vidyalaya,BOI,2017,Sri chaitanya junior kalasala,NRI,70123,,,OC, Aishwarya,M,,,6.3,6.3,,hyderabad,Placements
+33,17071A1234,MAKKENA SAI RAMA KRISHNA,MALE,IT,7.5,0.85,15,,SSC,2015,narayana techno school,BOI,2017,sri chaitanya junior kalasala,NRI,64982,,,OC,Sai Rama Krishna,M,,,,,,Hyderabad,Placements
+34,17071A1235,MANDULA SHARATH,MALE,IT,8.2,89,1,0,SSC,2015,st.anthony high school,BOI,2017,SRI CHAITANYA JUNIOR KALASHAL,EAMCET,55540,,,sc,sharathchandra,m,6.64,6.9,7,7.2,6.9,nalgonda,placements
+35,17071A1236,MOHAMMED SOHAIL,MALE,IT,9.2,0.96,0,0,SSC,2015,Martinet high school,BOI,2017,Narayana Junior College,EAMCET,14456,,,BC,Sohail,M,8.92,9.33,8.58,8.83,8.91,Hyderabad,Placements 
+36,17071A1237,MUSTI SAI NAGA VAISHNAVI,FEMALE,IT,9.3,95.8,0,0,SSC,2015,Sri chaitanya techno school,BOI,2017,Sri chaitanya junior kalasala,JEE,7215,,85481,OC,Vaishnavi,M,8.96,8.92,8.65,8.39,8.62,Hyderabad,Placements
+37,17071A1238,NAIKOTI SHRAVANI,FEMALE,IT,9.8,97.8,0,0,SSC,2015,"St.Anthony""s high school",BOI,2017,abhyas junior college,EAMCET,7562,,,BC,Shravani,N,8.76,9.44,8.31,8.39,8.62,sangareddy,Placements
+38,17071A1239,NALLA MANIT REDDY,MALE,IT,9.3,92,0,0,SSC,2015,St. Peters School,BOI,2017,Narayana Junior College,JEE,31672,,66593,OC,Manit Reddy,N,7.44,7.6,7.04,6.87,7.25,Hyderabad,Placements
+39,17071A1240,NARSAREDDY SRIHITHA REDDY,FEMALE,IT,9,91,0,0,SSC,2015,Narayana School,BOI,2017, Narayana Juior College,NRI,,,,OC,Srihitha Reddy,N,7.44,7.64,7.57,8.13,7.69,Hyderabad,Placements
+40,17071A1241,NUTHALAPATI NIDHI CHOWDARY,FEMALE,IT,9,87,1,0,SSC,2015,Sri Chaitanya Techno school,BOI,2017,Sri Chaitanya Junior College ,NRI,45762,,,OC,Nidhi Chowdary ,N,6.54,7.23,,6.04,,Hyderabad,Placements
+41,17071A1242,PADIGELA HRITIK,MALE,IT,9.5,96,0,0,SSC,2015,Gowtham model school,BOI,2017,Sri chaitanya Junior Kalasala,EAMCET,3960,,,OC,Hritik,P,9.28,9.8,9.83,9.43,9.585,Nirmal,Placements
+42,17071A1243,PAIDIPALA SUPRAJA,FEMALE,IT,10,98.7,0,0,SSC,2015,JSM high school,BOI,2017,Narayana Junior College,EAMCET,7319,,,BC,Supraja,P,9.36,9.92,10,9.87,9.78,Warangal,Placements
+43,17071A1244,PEYYALA JEREMIAH JOHN SUNITH,MALE,IT,8.7,82,0,0,SSC,2015,Bhashyam school,BOI,2017,Sri  Chaitanya junior college,EAMCET,17582,,,BC,Jeremiah John Sunith,P,5,6.72,5.74,6.61,6.01,hyderabad,Placements
+44,17071A1245,PILLI AKHILA,FEMALE,IT,9.7,97.8,0,0,SSC,2015,St.Anthony's high school,BOI,2017,Narayana junior college,EAMCET,7029,,,BC,Akhila,P,9.32,9.6,9.39,9.48,9.45,samudrala,Placements
+45,17071A1246,PRANITHA PEDDI,FEMALE,IT,9.8,97.9,0,0,CBSE,2015,DAV P S,BOI,2017,Sri Chaitanya Junior Kalasala,EAMCET,3686,,,OC,Pranitha,P,9.48,9.56,9.74,9.17,9.49,Hyderabad,Placements
+46,17071A1247,PULAKANTI SIRI CHANDANA,FEMALE,IT,9.3,93.5,0,0,SSC,2014,Triveni talent school,BOI,2016,Narayana junior college,EAMCET,6681,,,BC,Siri Chandana,P,7.32,7.52,7.65,6.65,7.29,Hyderabad,Placements
+47,17071A1248,RAAVI LEHARIKA,FEMALE,IT,9.5,94.5,0,0,SSC,2015,Narayana concept school,BOI,2017,Sri chaitanya junior kalasala,EAMCET,32757,,,OC,Leharika,R,7.7,7,7.35,8.17,7.55,Hyderabad,Placements
+48,17071A1249,RAVULA NIKHIL SIDDARDH REDDY,MALE,IT,9,91.4,4,1,SSC,2015,sri c international school,BOI,2017,Sri chaitanya junior college,EAMCET,4113,,,OC,NIKHIL SIDDARDH REDDY,R,6.88,7.24,7.04,7.25,7.12,KHAMMAM,Placements
+49,17071A1250,SAI MOHAN GAJAPAKA,MALE,IT,9,91.7,0,,CBSE,2015,Hindu public school,BOI,2017,Narayana Junior College,EAMCET,38477,,,SC,sai mohan,G,7.56,7.68,7.65,7.61,7.625,Hyderabad,Placements
+50,17071A1251,SHREESHA N NARAYANPETKAR,FEMALE,IT,9.5,97,0,0,SSC,2014,Rosary Convent High School,BOI,2016,Narayana Junior College,JEE,9426,,98351,OC,Shreesha,N,9.12,8.92,8.96,8.7,8.92,Hyderabad,Placements
+51,17071A1252,SREE NEHER PEGUDA,MALE,IT,9.8,97.6,0,0,CBSE,2015,DAV PUBLIC SCHOOL,BOI,2017,Sri  Chaitanya junior college,EAMCET,8381,,,BC,SREE NEHER,P,9.4,8.92,9.39,9.04,9.1875,Hyderabad,Placements
+52,17071A1253,TATIPAMULA RAVITEJA GOUD,MALE,IT,9.2,97.4,0,0,SSC,2015,Vagdevi Vidyalayam High School,BOI,2017,Sri  Chaitanya junior college,EAMCET,4513,,,BC,Raviteja Goud,T,8.96,8.92,8.43,8,8.577,Kamareddy,Placements
+53,17071A1254,THIRUNAHARI BHAVANA,FEMALE,IT,9.2,94.2,0,0,SSC,2015,kakatiya high school,BOI,2017,Sri chaitanya junior college,EAMCET,25273,,,BC,Bhavana,T,7.56,7.6,7.7,6.52,7.34,Jammikunta,Placements
+54,17071A1255,V SANDEEP,MALE,IT,7.5,85.2,2,,CBSE,2015,CRPF PUBLIC SCHOOL,BOI,2017,,EAMCET,58159,,,SC,Sandeep,V,6.96,,,6.09,,Hyderabad,Placements
+55,17071A1256,V SUNIL,MALE,IT,9,92,0,0,SSC,2015,mjptbcwres school,BOI,2017,SR junior college,EAMCET,33357,,,ST,sunil,v,7.76,8.12,7.87,7.17,,Wanaparthy,Placements
+56,17071A1257,VALLABHAPURAPU MANASA,FEMALE,IT,9.7,95.4,0,0,SSC,2015,Gowtham model school,BOI,2017,SR junior college,EAMCET,7835,,128597,BC,Manasa,V,8.32,8.44,9.74,8.91,8.86,Nizamabad,Placements
+57,17071A1258,VEMPATI SAI DEEPAK,MALE,IT,8.8,92.6,0,0,SSC,2015,Keshava reddy school,BOI,2017,Sri Gayatri Junior College,NRI,,,,OC,Sai deepak,V,6.76,6.84,6.26,6.96,6.73,Hyderabad,Placements
+58,17071A1259,VORUGANTI GOPI KRISHNA,MALE,IT,9.5,98.3,0,0,SSC,2015,Anjali High School,BOI,2017,Sri Gayatri Junior College,EAMCET,3901,,,OC,Gopi Krishna,V,9.2,9.4,9.35,8.96,9.23,SURYAPET,Placements
+59,17071A1260,YAREDLA ANESH REDDY,MALE,IT,9.2,98,0,0,SSC,2015,THEJA TALENT SCHOOL,BOI,2017,NARAYANA JUNIOR COLLEGE,EAMCET,3610,,,OC,ANESH REDDY,Y,9.16,9.12,9.26,8.61,9.04,SURYAPET,Placements
+60,17071A1261,ACHANTA SAI RAMYA,FEMALE,IT,9.8,91.6,0,0,CBSE,2015,Foster billabong high international school,SBTET,2016,Sri Chaitanya,EAMCET,6121,,,OC,Ramya,A,9.1,8.9,8.75,7.5,8.85,Hyderabad,Placements
+61,17071A1262,AMGOTH SANJANA,FEMALE,IT,8.3,80,4,0,SSC,2015,ST.Arnolds high school,BOI,2017,Narayana junior college,EAMCET,,,,ST,Sanjana,A,6,,,,,hyderabad,Placements
+62,17071A1263,AMULLA ROHITH,MALE,IT,8,80.1,0,0,SSC,2015,Narayana concept school,BOI,2017,Sri Chaitanya junior college,NRI,40185,,,OC,Rohith,A,6.86,7.13,7.22,6.38,6.82,Hyderabad,Placements
+63,17071A1264,AYESHA SIDDHIQUA,FEMALE,IT,8.8,93.7,0,0,SSC,2015,T V R model high school,BOI,2017,Sri Chaitanya,EAMCET,37180,,,BC,Ayesha Siddhiqua,,8.76,8.48,8.65,8.26,8.53,Hyderabad,Placements
+64,17071A1265,AZMEERA RAJESWARI,FEMALE,IT,8.5,91.5,0,0,SSC,2015,wonder kids school,BOI,2017,sri chaitanya arts and science junior college,EAMCET,55528,,,ST,Rajeswari,A,7.84,7.76,8.17,7.43,7.8,kothagudem,Placements
+65,17071A1266,BANDARU RAJA SAI,MALE,IT,9.5,98.7,0,0,SSC,2015,SLATE HIGH SCHOOL,BOI,2017,NARAYANA JUNIOR COLLEGE,EAMCET,4464,,,OC,RAJA SAI,B,9.48,9.44,9.52,9.09,9.38,Mancheriyal,Placements
+66,17071A1267,BATTURI PAVAN KALYAN,MALE,IT,9.3,95.8,0,0,SSC,2015,saraswathi high school,BOI,2017,Trinity junior  college,EAMCET,52261,,,SC,pavan kalyan,B,8.56,7.68,8.44,7.91,8.14,karimnagar,Placements
+67,17071A1268,BHANAVI NIMMAGADDA,FEMALE,IT,8,8.5,0,0,CBSE,2015,Bharathiya Vidya Bhavana’s public school,BOI,2017,,NRI,45000,,,OC,Bhanavi,N,6.64,7.44,7,6.9,7.23,Hyderabad ,Placements
+68,17071A1269,BHUKYA SIDVILAS DIGNA,MALE,IT,10,96,0,1,SSC,2015,Tejaswi high school,BOI,2017,Sr edu centre,EAMCET,33613,,,ST,Sidvilas digna ,B,8.44,7.28,6.95,6.65,7.33,Warangal ,Placements
+69,17071A1270,BODDULA SAIKARTHIK,MALE,IT,9.7,96.4,0,0,SSC,2015,Sri Vijaya Sai High School ,BOI,2017,Narayana Junior College ,EAMCET,5869,,,BC,Sai Karthik ,B,8.92,8.86,9.48,9.09,9.07,Nizamabad ,Placements
+70,17071A1271,BONGUNURI KEERTHI REDDY,FEMALE,IT,9,75,0,0,CBSE,2015,The creek planet school,CBSE,2017,Kennedy high the global,NRI,,,,OC,keerthi Reddy,B,7.36,6.92,7.26,7.61,7.18,Hyderabad ,Placements
+71,17071A1272,BOPPUDI SWATHI,FEMALE,IT,9.2,96.4,0,0,SSC,2015,Bhashyam high school ,BOI,2017,Sri Chaitanya ,EAMCET,7148,,,BC,swathi,B,7.88,8.52,8.61,7.87,8.22,Hyderabad ,Placements
+72,17071A1273,BOTTA AKANKSHITA,FEMALE,IT,9.5,97.2,0,0,SSC,2015,narayana concept school,BOI,2017,narayana junior college,EAMCET,11071,,,OC,Akankshita,B,8.68,8.4,8.22,7.91,8.3,Hyderabad ,Placements
+73,17071A1274,BURLE SAI PREETHAM,MALE,IT,9,95.6,0,0,SSC,2015,Abhyas Techno School,BOI,2017,Narayana junior college,EAMCET,4104,,,OC,Sai Preetham,B,9,9,9.26,9.04,9.08,Miryalaguda,Placements
+74,17071A1275,BYSANI ANANYA,FEMALE,IT,9,93.2,0,0,SSC,2015,narayana concept school,BOI,2017,sri chaitanya,NRI,29190,,,OC,Ananya,B,8.72,7.8,8.39,8.22,8.28,mahabubnagar,Placements
+75,17071A1276,D P DINESH CHANDRA,MALE,IT,8.4,88,0,0,CBSE,2015,Bolton School,BOI,2017,Leela Junior College,EAMCET,51676,,,BC,Dinesh,D,6.72,6.74,6.64,6.52,6.61,hyderabad,Placements
+76,17071A1277,ERRAASHANNAGARI PRAVEEN,MALE,IT,9.8,95.7,0,0,SSC,2014,Sri saraswathi shishumandir,BOI,2016,NRI junior kalasala,EAMCET,7567,,,BC,praveen,E,7.32,8,7.87,6.75,7.32,Hyderabad,Placements
+77,17071A1278,GOKA NANDINI REDDY,FEMALE,IT,9.2,98.1,0,0,SSC,2015,little flower high school,BOI,2017,sumathi reddy junior college for girls,EAMCET,5481,,,OC,Nandini Reddy,G,9.36,8.6,9.22,8.26,8.86,Adilabad,Placements
+78,17071A1279,GOTTUMUKULA PREETHAM RAO,FEMALE,IT,9.3,97.3,0,0,SSC,2015,Narayana Olympiad high school,BOI,2017,Narayana junior college,NRI,13273,,,OC,Preetham Rao,G,8.78,8.32,8.37,8.02,8.4,Hyderabad,Placements
+79,17071A1280,GUGULOTHU VIJAY KUMAR,MALE,IT,8.5,95.9,0,0,SSC,2015,Trinity high school,BOI,2017,Sri chaitanya junior college,EAMCET,34913,,,ST,Vijay kumar,G,8.6,8.52,7.83,7.65,8.16,Mancherial,Placements
+80,17071A1281,GUNDETI VANI,FEMALE,IT,9,90,1,1,SSC,2015,krishnaveni talent school,BOI,2017,Sri Chaitanya Junior College,EAMCET,16997,,,BC,Vani,G,7.5,,7.6,7.3,,mancherial,Placements
+81,17071A1282,HARSHA POTLURI,MALE,IT,9,95.7,0,0,CBSE,2015,DAV Public School,BOI,2017,Sri Chaitanya Junior College,NRI,11156,,,OC,Harsha,P,8.28,8.04,8.14,7.91,8.03,Hyderabad,Placements
+82,17071A1283,HRIDAY RAO GANGA,MALE,IT,8.2,80,0,2,CBSE,2015,CHIREC international School,CBSE,2017,CHIREC international School,NRI,,,"1,46,478",OC,Hriday Rao,G,7.1,7,6.9,6.6,7,Hyderabad,Placements
+83,17071A1284,KASMOLA SAKSHITH REDDY,MALE,IT,9.5,96.7,0,0,SSC,2015,Narayana Concept High School,BOI,2017,Narayana Junior College,EAMCET,3935,,,OC,Sakshith Reddy,K,8.92,9.08,9.13,8.26,8.84,Hyderabad,Placements
+84,17071A1285,KURRA SAI VISHAL,MALE,IT,9,91.8,2,2,SSC,2015,paramitha heritage school,BOI,2017,sri gayatri junior college,NRI,,,,BC,sai vishal ,K,7.4,7.611,6.48,6.26,6.937,siddipet,Placements
+85,17071A1286,L SARASWATHI,FEMALE,IT,9.2,84.7,2,0,CBSE,2015,Silver Oaks International school ,BOI,2017,Sri Chaitanya Junior College ,NRI,73732,,,OC,Saraswathi ,L,,,6.8,7.09,,Hyderabad ,Placements
+86,17071A1287,LAXMAN MUTHE,MALE,IT,9.6,96.2,0,0,CBSE,2015,Bharatiya Vidya Bhavan's Public School,BOI,2017,Sri Chaitanya Junior College,EAMCET,5241,,,BC,Laxman,M,8.92,9.12,8.91,8.04,8.74,Hyderabad,Placements
+87,17071A1288,LINGAMPALLY MADHURAVANI,FEMALE,IT,8.8,92.6,0,0,SSC,2015,TSWREIS garrepally,BOI,2017,TSWREIS COE karimnagar,EAMCET,48000,,,SC,Madhuravani,L,7.28,7.56,7.83,7.3,7.55,Karimnagar,Placements
+88,17071A1289,MADAN PREM KUMAR,MALE,IT,9,91,0,0,SSC,2015,gautami vidya kshetra,BOI,2017,SRI CHAITANYA JUNIOR COLLEGE,NRI,,,,OC,PREM KUMAR,M,7.6,7.6,7.43,7.48,7.52,Hyderabad,Placements
+89,17071A1290,MALLEM SAHITHI,FEMALE,IT,9.8,98.6,0,0,SSC,2015,Holy Angels High School,BOI,2017,Narayana Junior College,EAMCET,4517,,,OC,Sahithi,M,8.44,8.56,9.04,8.33,8.57,Mahabubabad,Placements
+90,17071A1291,MASAMPALLY KARTHIK,MALE,IT,9.5,,0,,SSC,2015,spectra concept school,BOI,2017,Narayana junior college,EAMCET,6439,,,BC,Karthik,M,8.32,8.84,8.57,7.9,8.4225,Warangal,Placements
+91,17071A1292,MATHA THANMAYEE,FEMALE,IT,9.5,96.6,0,0,SSC,2015,sri chaitanya techno school,BOI,2017,Gyanavapi Junior College,EAMCET,8262,,105621,OC,Thanmayee,M,9,9.76,9.43,8.96,9.18,Hyderabad,Placements
+92,17071A1293,MUTNURU AKHILESH,MALE,IT,9.4,96.9,0,1,CBSE,2015,ST.Michael's School,BOI,2017,Narayana Junior College,EAMCET,8117,,,OC,Akhilesh,M,8.96,8.36,7.3,7.61,8.05,Hyderabad,Placements
+93,17071A1294,NAGISHETTI RAVITEJA,MALE,IT,9.8,96.2,0,0,SSC,2014,Dr.HR Techno School,BOI,2016,sri gayatri junior college,EAMCET,7868,,20562,BC,Raviteja,N,8.52,8.92,8.87,8.3,8.65,Suryapet,Placements
+94,17071A1295,PAIDA SAI TEJA,MALE,IT,9.7,96.2,0,0,SSC,2015,paramitha heritage school,BOI,2017,sri chaitanya junior college,EAMCET,4597,,,OC,Sai Teja,P,8.8,9.16,8.78,8.74,8.87,Karimnagar ,Placements
+95,17071A1296,PASUMARTHI HRUTHVIK,MALE,IT,9.7,97.5,0,0,SSC,2015,century hi profile school,BOI,2017,Narayana junior college,EAMCET,3707,,,OC,Hruthvik,p,9.08,9.13,8.7,8.48,8.85,tallada,Placements
+96,17071A1297,PENDYALA KEERTHI,FEMALE,IT,10,93.8,0,0,SSC,2015,sri chaitanya high school,BOI,2017,sri chaitanya junior college,JEE,,,,OC,keerthi,p,8.68,9.4,8.91,8.39,8.85,Eluru,Placements
+97,17071A1298,PIRATLA SIVA NAGA CHANDRA SEKHAR,MALE,IT,9.7,98.6,0,0,SSC,2015,Vijnana Vihara E.M High school,BOI,2017,Vignan's co-operative Junior college,EAMCET,2813,,,OC,Siva Naga Chandra Sekhar,P,9.52,9.92,9.7,8.91,9.51,Guntur,Placements
+98,17071A1299,PODDUTURI PRATHIHAS,MALE,IT,8.8,93,0,0,SSC,2015,St.Thomas high school,BOI,2017,abhyas junior college,EAMCET,3975,,,OC,prathihas reddy,P,8.2,8.1,8.1,7,8.175,nirmal,Placements
+99,17071A12A0,PODISHETTY VAIBHAVI,FEMALE,IT,9,94.3,0,0,SSC,2015,st.anthonys high school,BOI,2017,sri Chaitanya Junior college ,EAMCET,22475,,,BC,vaibhavi,p,7.96,8.24,7.65,8.35,8.05,sangareddy,Placements
+100,17071A12A1,POLA SAHITHI,FEMALE,IT,9.7,96,0,0,SSC,2015,St.Peter's high school,BOI,2017,sri Chaitanya Junior college ,EAMCET,5671,,,OC,Sahithi,P,8.84,9.28,8.65,8.6,8.735,hyderabad,Placements
+101,17071A12A2,POLICE MANIKANTH REDDY,MALE,IT,9.7,96.6,0,0,SSC,2015,Keshava reddy concept school,BOI,2017,Narayana Junior college,EAMCET,3780,,,OC,Manikanth Reddy,P,9.52,9.56,9.22,9.3,9.37,Sangareddy,Placements
+102,17071A12A3,PRABHUSHETTY SANJAY,MALE,IT,9,95.3,0,0,SSC,2015,Sandeepam Vidyalaya High School,BOI,2017,Narayana Junior College,EAMCET,38930,,,SC,Sanjay,P,7.92,7.84,7.35,8.13,7.81,Hyderabad,Placements
+103,17071A12A4,PULIKANTI BAJANTRI KEVARTHI,FEMALE,IT,9.3,94.1,0,0,SSC,2015,Sri gurudatta high school,BOI,2017,New Era junior College,EAMCET,11099,,,BC,Kevarthi,P.B,7.3,7.8,6.8,6.39,7.07,Hyderabad,Placements
+104,17071A12A5,SAI KRISHNA ESWAR GUTTIKONDA,MALE,IT,7.45,79,1,0,ICSE,2015,Niraj Public School Ameerpet,BOI,2017,Sri Chaithanya Junior College,EAMCET,6429,,,OC,Sai Krishna Eswar,G,6.56,,6.34,,,Hyderabad,Placements
+105,17071A12A6,SHAIK SAMEENA,FEMALE,IT,9.8,93,0,0,SSC,2015,Triveni School Alwal,BOI,2017,Sri Chaitanya Junior Kalasala,EAMCET,18443,,,BC,Sameena,S,8.52,8.76,8.83,8.7,8.7,Hyderabad,Placements
+106,17071A12A7,SUNKA HARSHITH REDDY,MALE,IT,8.7,87.4,7,4,SSC,2015,narayana techno school,BOI,2017,sri chaitanya junior college,NRI,58592,,155339,OC,Harshith Reddy,S,,,,,,Wanaparthy,Placements
+107,17071A12A8,T THUSHARA,FEMALE,IT,10,94.8,0,3,CBSE,2015,Vignans bo tree school,BOI,2017,Narayana junior college,NRI,29800,,,OC,Thushara,T,6.28,7.04,6.57,6.91,6.7,Hyderabad,Placements
+108,17071A12A9,THADEM SAI ANIRUDH,MALE,IT,9.5,97.9,0,0,SSC,2015,Saraswathi High School,BOI,2017,Alphores junior college,EAMCET,6726,,,BC,Sai Anirudh,T,8.44,9.12,8.91,8.43,8.75,KARIMNAGAR,Placements
+109,17071A12B0,THATIKONDA VAMSHI,MALE,IT,9.8,96,0,0,CBSE,2015,Harvest Public School,BOI,2017,Narayana Junior College,EAMCET,8399,,43493,BC,Vamshi,T,9.28,9.1,8.83,8.74,8.98,Karepalli,Placements
+110,17071A12B1,THOKALA ABHISHEK,MALE,IT,9.5,96.8,0,0,SSC,2015,Narayana High School,BOI,2017,Narayana Junior College,EAMCET,21378,,,BC,Abhishek,T,9.4,9.32,9.14,8.61,9.1,Hyderabad,Placements
+111,17071A12B2,TUMMALA SIVA SATYA LAKSHMI DARAHASA,FEMALE,IT,9.7,98.5,0,0,SSC,2015,Geetanjali IIT Olympiad School,BOI,2017,Sri Chaitanya Junior College,EAMCET,10935,,,OC,SIVA SATYA LAKSHMI DARAHASA,T,8.36,9.32,9.43,9,9.02,HYDERABAD,Placements
+112,17071A12B3,VATTIKONDA SAHITI,FEMALE,IT,9.3,92.5,0,1,SSC,2015,new vision school,BOI,2017,Sri Chaitanya ,NRI,45000,,,OC,Sahiti,V,6.24,7.8,6.69,6.87,6.91,Khammam,Placements 
+113,17071A12B4,VELICHETI TEJA,MALE,IT,9.7,95.9,0,0,SSC,2015,Pragathi Vidyani kethan,BOI,2017,Narayana junior college,JEE,9814,,,OC,Teja,V,8.63,8.68,8.78,8.14,8.55,Hyderabad,Placements
+114,17071A12B5,VIKAS LAGISHETTY,MALE,IT,9.4,88.9,0,0,CBSE,2015,Prerana waldorf school,BOI,2017,Fiitjee junior college,JEE,4968,,39977,OC,Vikas,L,9.2,9.2,9.17,8.26,8.96,Wanaparthy,Placements
+115,17071A12B6,VIPPARTHY NIHARIKA,FEMALE,IT,10,96.8,0,0,SSC,2015,Narayana Consept HighSchool,BOI,2017,Narayana Junior College,EAMCET,17227,,,OC,Niharika,V ,9,9.04,9.04,8.52,8.9,Hyderabad,Placements
+116,17071A12B7,VURUGONDA SHYVALYA,FEMALE,IT,9.2,94.5,0,1,SSC,2015,Ken-Crest The Global School,BOI,2017,Alphores junior college,EAMCET,27243,,,BC,Shyvalya,V,7.44,7.84,7.61,8.43,7.83,Karimnagar,Placements
+117,17071A12B8,YAMA SHASHANK,MALE,IT,9,97.2,0,0,SSC,2015,Dr.kkr's gowtham concept school,BOI,2017,Narayana junior college,EAMCET,11200,,,OC,Shashank,Y,8.08,7.96,8,7.52,7.9,Suryapet,Placements
+118,17071A12B9,YELAMANCHILI VINAYA SREE,FEMALE,IT,8.8,96,0,0,SSC,2015,Sri Chaitanya Techno School,BOI,2017,Sri chaitanya junior college ,EAMCET,11154,,,OC,Vinaya Sree,Y,8.36,8.52,8.74,8.74,8.63,Hyderabad ,Placements
+119,17071A12C0,NAIKOTI UDAY KIRAN,MALE,IT,9.3,96,1,5,SSC,2015,geetha high school,BOI,2017,sri chaitanya junior college,JEE,7500,,31000,BC,udaykiran,N,,,,,,medak,Placements
+120,17071A12C1,ALUGURI AKASH,MALE,IT,9.7,96.8,1,0,SSC,2015,Alphores High School,BOI,2017,Sri Chaitanya College ,EAMCET,4536,,18977,OC,Akash,A,7.96,7,7,,,Karimnagar,Placements
+121,17071A12C2,AMRUTHAM AKSHITH RAJ,MALE,IT,9,97,0,0,SSC,2015,NARAYANA CONCEPT SCHOOL OLD ALWAL,BOI,2017,Narayana Junior College,EAMCET,7247,,,BC,Akshith raj,A,8.4,8.28,6.7,6.61,7.5,Hyderabad,Placements
+122,17071A12C4,BHONAGIRI PRASHANTH,MALE,IT,9,96.4,0,0,SSC,2015,SRI CHAITANYA TECHNO H S GUDIBANDA RD KODAD,BOI,2017,NARAYANA JUNIOR COLLEGE,EAMCET,4110,,37417,OC,Prashanth,B,8.8,8.8,8.96,7.96,8.63,Kodad,Placements
+123,17071A12C5,BOGHANI DIVYA KALPESH,FEMALE,IT,93.6,9.55,0,0,ICSE,2015,The Hyderabad Public School,SBTET,2017,Sri Chaitanya Junior College,JEE,6432,,41235,OC,Divya,B,9.36,9.32,9.13,8.35,9.04,Hyderabad,Placements
+124,17071A12C6,BOMMIDI DEEKSHITH,MALE,IT,9.7,96,0,0,SSC,2015,Jaya IIT Olympiad High School,BOI,2017,Sri Chaitanya Junior College,EAMCET,9430,,34672,OC,Deekshith,B,9.08,9.2,9,8.57,8.96,Suryapet,Placements
+125,17071A12C7,CHITUMALLA AJAY KUMAR,MALE,IT,9.8,98,0,0,SSC,2015,Sri Siddartha High School,BOI,2017,S.R. Junior College,EAMCET,3673,,,OC,Ajay Kumar,C,9.16,9.52,9.48,9.26,9.32,Siddipet,Placements
+126,17071A12C8,DADUVY SOWMYA,FEMALE,IT,8.7,83.8,4,1,SSC,2015,Narayana concept school,BOI,2017,Narayana junior college,NRI,77059,,,BC,Sowmya,D,,,,,,Hyderabad ,Placements
+127,17071A12C9,DEVASOTH CHANDRA PRAKASH,MALE,IT,8.8,95.5,0,0,SSC,2015,Pratibha High school,BOI,2017,sri Chaitanya junior college,EAMCET,35793,,,ST,Chandra Prakash,D,8,8,7.43,8.04,7.86,Hyderabad,Placements
+128,17071A12D0,DEVISETTY SAI SARIKA,FEMALE,IT,9.7,97.3,0,0,SSC,2015,ST JOSEPHS HIGH SCHOOL,BOI,2017,Sri Chaitanya Junior kalasala,EAMCET,5318,,64000,OC,Sai Sarika,D,9.64,9.52,9.48,9.22,9.46,Kothagudem,Placements
+129,17071A12D1,DURGAM ARCHANA,FEMALE,IT,9.3,86,1,0,SSC,2015,C.M.Academy,BOI,2017,Sri Chaitanya Junior kalasala,EAMCET,50000,,34000,SC,Archana,D,7.86,7.46,6.66,7.46,,hyderabad,Placements
+130,17071A12D2,EEGAM SAI SHARAN,MALE,IT,8.8,96.2,0,0,SSC,2015,Alphores High School,BOI,2017,Narayana Junior College,EAMCET,10481,,,OC,SAI SHARAN,E,8.04,8.48,7.7,8.65,8.21,Karimnagar,Placements
+131,17071A12D3,GUJJARI VIJAY KUMAR,MALE,IT,10,97.1,0,0,SSC,2015,krishnaveni talent school,BOI,2017,Sri Chaitanya junior kalasala,EAMCET,12771,,,BC,vijay kumar,G,8.76,8.72,8.43,7.96,8.47,Hyderabad,Placements
+132,17071A12D4,GUNDETI SAI PRUDHVI,MALE,IT,9.7,96.5,2,0,SSC,2015,Sri Chaitanya Techno School,BOI,2017,Sri Chaitanya junior kalasala,EAMCET,7572,,,BC,Sai Prudhvi,G,7.8,8.32,7.96,,,Godavarikhani,Placements
+133,17071A12D5,GUNDU AISHWARYA VARMA,FEMALE,IT,9.8,98.3,0,0,SSC,2015,Sri chaitanya techno school,BOI,2017,narayana junior college,EAMCET,8204,,,BC,Aishwarya varma,G,9.08,8.76,8.78,8.39,8.75,Hyderabad ,Placements
+134,17071A12D6,HARI GOPAL KARNATI,MALE,IT,7.8,91.5,1,1,CBSE,2015,V P S public school ,BOI,2017,Sri Sarada Junior College ,NRI,51264,,,OC,Harigopal ,K,,7.24,6.35,,,Hyderabad ,Placements
+135,17071A12D7,HONUGUNTI SOWMYASREE,FEMALE,IT,9.7,96.6,0,0,SSC,2015,St.Anthonys high school,BOI,2017,Naraya junior college,EAMCET,24349,,,SC,sowmyasree,h,8.54,7.92,6.78,7.8,7.8,sangareddy,Placements
+136,17071A12D8,JUTTU NOSHITHA PADMA PRATYUSHA,FEMALE,IT,9.2,88.6,0,0,SSC,2014,New Era High School,BOI,2016,FIITJEE junior collegesri,EAMCET,10852,-,,OC,Noshitha Padma Pratyusha,J,9.08,9.04,8.87,8.83,8.955,Hyderabad,Placements
+137,17071A12D9,KINNERA VISHAL,MALE,IT,9.3,94.1,0,0,SSC,2015,Millennium High school,BOI,2017,Narayana junior college,EAMCET,32755,,,SC,vishal,k,7.48,7.56,8.05,7.89,7.75,Hyderabad,Placements
+138,17071A12E0,KOMARAVOLU SRUJANA,FEMALE,IT,9.7,96.3,0,0,SSC,2015,Sri chaitanya techno school ,BOI,2017,Sri chaitanya junior kalasala,NRI,,,,OC,Srujana,K,9.28,8.48,8.91,9,8.96,Hyderabad,Placements
+139,17071A12E1,KONGARA SUMANTH,MALE,IT,9,93.9,3,0,CBSE,2015,silver oaks,BOI,2017,Sri Chaitanya junior college,JEE,,,32345,OC,sumanth,k,8.6,7.8,,,,Hyderabad,Placements
+140,17071A12E2,M GAYATHRI,FEMALE,IT,8.8,8.81,0,,CBSE,2015,sanghamitra school ,CBSE,2017,Sri Chaitanya junior college ,NRI,67159,,,OC,Gayathri ,M,6.3,6,6,7.43,6.5,Hyderabad ,Placements
+141,17071A12E3,MADHURENDRA TRIPATHY,MALE,IT,9.5,94.4,0,0,SSC,2015,Sri Chaitanya High School ECIL-2,BOI,2017,Sri Chaitany Junior Kalasala,EAMCET,9658,,,OC,Madhurendra,T,8.88,8.96,9.35,8.87,9,Hyderabad,Placements
+142,17071A12E4,MADISHETTY SAIKRISHNA,MALE,IT,9.3,96.9,0,0,SSC,2015,PARAMITA HIGH SCHOOL,BOI,2017,SRI CHAITANYA JUNIOR KALASALA,EAMCET,6079,,127688,BC,Sai krishna,M,8.12,8,7.92,7.61,7.91,karimnagar,Placements
+143,17071A12E5,MANDHADI SAI PRAKASH REDDY,MALE,IT,9.8,98.9,0,0,SSC,2015,Santhinikethan High School,BOI,2017,Narayan Junior College,EAMCET,3793,,,OC,Sai Prakash,M,9.36,9.04,9.09,8.87,9.09,Hyderabad,Placements
+144,17071A12E6,MODUPALLI SUCHARITHA,FEMALE,IT,9.8,96.8,0,0,SSC,2015,Bhashyam High School,BOI,2017,Sri Chaitanya Junior Kalasala,EAMCET,10031,,,OC,Sucharitha ,M,8.88,8.76,8.86,8.96,8.87,Hyderabad ,Placements
+145,17071A12E7,MOVVA SSNB TEJASWINI,FEMALE,IT,9,90.5,0,0,SSC,2015,Dr k.k.r's gowtham concept school,BOI,2017,Sri Chaitanya Junior Kalasala,NRI,40182,,,OC,S S N B Tejaswini,M,7.2,7.36,6.91,6.65,7.03,Hyderabad,Placements
+146,17071A12E8,MUNAWATH RAVI,MALE,IT,8.5,94.2,0,0,SSC,2015,Saint Paul's High School,BOI,2017,Narayana junior college,EAMCET,29705,,,ST,Ravi,M,8.04,7.68,7.91,8.43,8.01,Nalgonda,Placements
+147,17071A12E9,MURARISHETTI YASHWANTH,MALE,IT,9.3,98.2,0,0,SSC,2015,Abhyas Techno High School,BOI,2017,Narayana junior college,EAMCET,3867,,,OC,Yashwanth,M,9.04,9.32,9.13,8.91,9.1,Suryapet,Placements
+148,17071A12F0,N SHREYA,FEMALE,IT,9,83,2,,CBSE,2015,St.Andrews High School,BOI,2017,FIITJEE,NRI,,,,OC,Shreya,N,7.4,7.1,6.9,,,Hyderabad,placements
+149,17071A12F1,NAMALA SUDHA LAKSHMI,FEMALE,IT,9.3,96.5,0,0,SSC,2015,Victory High School,BOI,2017,Sri Chaitanya Junior College,EAMCET,9630,,,OC,SUDHA LAKSHMI,N,8.04,8.6,8.04,7.7,8.095,Nizamabad,Placements
+150,17071A12F2,NEERUKONDA JAHNAVI,FEMALE,IT,9.5,96.8,0,0,SSC,2015,DR K K R 's Gowtham Concept School,BOI,2017,Narayana Junior College,EAMCET,9961,,,OC,JAHNAVI,N,8.8,8.32,8.04,8.22,8.325,Hyderabad,Placements
+151,17071A12F3,NOOKALA NAGA VENKATA MANASWINI GAYATHRI,FEMALE,IT,9.7,95.8,0,0,SSC,2015,Dr.KKR Gowtham international School,BOI,2017,Sri Chaitanya Junior College,EAMCET,3143,,,OC,NAGA VENKATA MANASWINI GAYATHRI,N,8.8,8.36,8.3,8.6,8.515,VIJAYAWADA,Placements
+152,17071A12F4,NUTALAPATI PRANAY PRIYAN,MALE,IT,10,87.4,0,0,CBSE,2014,Army public school golconda,CBSE,2016,army public school golconda,EAMCET,33998,,,SC,PRANAY PRIYAN,N,8.88,9,9.04,8.43,8.83,Hyderabad,Placements
+153,17071A12F5,NYATHA SAI DEEPAK,MALE,IT,9.3,89,5,1,SSC,2015,Bhashyam high school,BOI,2017,Sarath junior college,EAMCET,41000,,,SC,SAI DEEPAK,N,,,,5.6,,Hyderabad,Placements
+154,17071A12F6,PABBISHETTI SOUMYA,FEMALE,IT,9.5,97.9,0,0,SSC,2015,"Pragna high school,Bodhan",BOI,2017,"Narayana junior college ,Bhachupally",EAMCET,5490,,,OC,SOUMYA,P,9.26,9.16,9.24,9.52,9.295,Zaheerabad,Placements
+155,17071A12F7,PADAKANTI SANJANA,FEMALE,IT,9.8,97,0,0,SSC,2015,RBVRR HIGH SCHOOL,BOI,2017,Sri Chaitanya School,JEE,11875,"
+",103471,OC,Sanjana,P,8.88,8.48,8.78,8.43,8.69,Nizamabad,Placements
+156,17071A12F8,PANDIRI HANEESHA,FEMALE,IT,9.7,97.6,0,0,SSC,2015,oxford high school,BOI,2017,sri chaithanya junior college,EAMCET,4472,,,OC,Haneesha ,P,9.12,8.96,8.65,8.74,8.86,Rajanna sircilla,Placements
+157,17071A12F9,PEDDI SRINIVAS,MALE,IT,9,92.7,0,0,CBSE,2015,Vivekananda residential school,BOI,2017,Sri Chaithanya junior college ,JEE,9594,,128062,OC,Srinivas,P,7.75,7.48,7,5.87,7.01,Karimnagar ,Placements
+158,17071A12G0,PEDDINTI RAGHAVI,FEMALE,IT,9.3,87.3,5,1,SSC,2015,Sri chaitanya techno school,BOI,2017,Sri chaitanya junior college,JEE,49543,,41525,OC,raghavi,P,6.16,,,,,Hyderabad,Placements
+159,17071A12G1,PRITHISH REDDY PAKALA,MALE,IT,10,94.6,0,0,CBSE,2015,Hyderabad Public School,BOI,2017,Sri chaitanya junior college,JEE,6500,,47556,OC,Prithish Reddy,P,8.08,7.6,7.39,5.96,7.25,Hyderabad,Placements
+160,17071A12G2,PYNENI SAI SRUJANA,FEMALE,IT,9.8,97.7,0,0,SSC,2015,"Narayana IIT Olympiad School,Kukatpally",BOI,2017,Sri Chaitanya Junior College,EAMCET,3955,,61755,OC,Sai Srujana,P,9.64,9.36,9.739,9.3,9.5,Hyderabad,Placements
+161,17071A12G4,REETHU CHOWDARY GOGINENI,FEMALE,IT,8.2,95.9,0,0,CBSE,2015,Sai baba central school,BOI,2017,Sri Chaitanya Junior College,NRI,,,,OC,Reethu chowdary,G,7.68,7.32,7.57,7.61,7.72,Ongole,Placements
+162,17071A12G5,J SAI KUMAR,MALE,IT,9.2,96.4,0,0,SSC,2015,sacred heart high school,BOI,2017,narayana junior college,EAMCET,12132,,,OC,Saikumar,J,7.2,6.44,7.04,5.96,6.66,hyderabad,Placements
+163,17071A12G6,S DEEPIKA,FEMALE,IT,8.2,90.8,1,1,SSC,2015,THE INDO ENGLISH HIGH SCHOOL,BOI,2017,Narayana jr college,EAMCET,40070,,,SC,Deepika,S,6.7,,6.5,7.2,,hyderabad,Placements
+164,17071A12G7,SAGIRAJU RAMA SAI SRAVYA,FEMALE,IT,9.8,96.3,0,0,SSC,2015,TVR MODEL HIGH SCHOOL,BOI,2017,SRI CHAITANYA JUNIOR COLLEGE,EAMCET,3540,,,OC,RAMA SAI SRAVYA,S,6.37,7.05,7.32,6.78,6.98,hyderabad,Placements
+165,17071A12G8,SHAIK JAVEED MEERA SHAREEF,MALE,IT,10,95.5,3,1,SSC,2015,new era school,BOI,2017,Hyderabad Institue Of excellence,EAMCET,9200,,,BC,javeed meera shareef,sk,7.52,8.12,,,,khammam,Placements
+166,17071A12G9,SHIVANATHRI RAJESHWAR,MALE,IT,9.8,98.5,0,0,SSC,2015,orbit e-techno school,BOI,2017,alphores junior college,EAMCET,4282,,,OC,rajeshwar,S,7.88,8.12,7.12,6.09,7.3,karimnagar,Placements
+167,17071A12H0,SURAPANENI NAVATEJ ADITYA,MALE,IT,7.7,80,5,5,SSC,2015,ST.MARY'S HIGH SCHOOL,BOI,2017,SRI GAYATHRI,NRI,,,,OC,NAVATEJ ADITYA,S,,,,,,hyderabad,Higher Education
+168,17071A12H1,TALLAPALLI THARUN KUMAR,MALE,IT,9.7,98.4,0,0,SSC,2015,Geeth High School,BOI,2017,Narayana Junior College,EAMCET,3997,,,OC,Tharun Kumar,T,9.76,9.44,8.57,8.48,9.06,Toopran,Placements
+169,17071A12H2,THAMTAM SAI HAREESHA,FEMALE,IT,9.5,91.2,0,0,SSC,2015,sri chaitanya techno school,BOI,2017,Sri chaitanya junior college,EAMCET,,,,,Sai hareesha,T,6.77,7.36,7.09,7.22,7.11,Hyderabad,Placements
+170,17071A12H3,TUMULA RAHUL,MALE,IT,8.3,92.4,0,0,SSC,2015,Dr KKR'S GOWTHAM HIGH SCHOOL,BOI,2017,Narayana Junior College,EAMCET,6452,,"91,234",BC,Rahul,T,7.52,7.96,7.08,6.52,7.27,Hyderabad ,Placements
+171,17071A12H4,VAITLA MEGHANA,FEMALE,IT,8.7,98.7,0,0,SSC,2015,GOOD SHEPHERD H.S,BOI,2017,SRICHAITANYA JUNIOR KALASALA,EAMCET,8059,,,BC,MEGHANA,V,8.88,9.12,8.65,8.65,8.83,HYDERABAD,Placements
+172,17071A12H5,VINAY SUNKU,MALE,IT,9.5,78.1,2,1,SSC,2015,JSM High School,BOI,2017,SR Edu-Center,JEE,,,39500,BC,Vinay,S,6.56,,6.26,6.09,,Hanamkonda,Placements
+173,17071A12H6,VUCHURU SAI ABHIMANYA,MALE,IT,9.5,88.2,0,1,SSC,2015,Bhashyam Public school,BOI,2017,SRICHAITANYA JUNIOR KALASALA,EAMCET,17864,,,BC,Sai Abhimanya,V,6.92,6.44,6.78,6.61,6.68,Hyderabad,Placements
+174,17071A12H8,Y KRISHNA SREE,FEMALE,IT,9.5,94,0,0,SSC,2015,Dilsukhnagar public school ,BOI,2017,Narayana junior college ,NRI,23256,,,OC,krishnasree,Y,7.88,7.9,7.82,6.92,7.6,HYDERABAD ,Placements
+175,17071A12I0,MAGANTI SUSHMA,FEMALE,IT,9.2,87.8,0,0,SSC,2015,Dr kkr gowtham school,BOI,2017,SRICHAITANYA JUNIOR KALASALA,NRI,41700,,,OC,sushma,M,7.9,7.7,7.5,7,7.5,HYDERABAD,Placements
+176,18075A1201,B GANESH VENKAT,MALE,IT,8.7,68,3,,SSC,2015,BOI,BOI,2018,SangaReddyGovtPolytechnic,ECET,,,,BC,ganeshvenkat,B,,,,,,Hyderabad,Placements
+177,18075A1202,BARKAM VINAY KUMAR,MALE,IT,8,68.4,0,0,SSC,2014,vasavi high school ,SBTET,2017,govt.institute of electronics,ECET,,1700,,BC,vinay Kumar ,B,,,5.57,5.74,5.7,nirmal ,Placements
+178,18075A1203,BOINI RAM CHARAN,MALE,IT,8.7,78,0,0,SSC,2015,srv  high school,SBTET,2018,T. R. R college of technology,ECET,,790,,OC,Ram charan,B,,,5.87,6.37,6.12,warangal,Placements
+179,18075A1204,ISLAVATH YOGINATH,MALE,IT,7.5,84,0,0,SSC,2015,bvn high school,SBTET,2018,abdul kalam institude of technology sciences,ECET,,193,,ST,Yoginath,I,,,7.2,7.4,7.3,yellandu,Placements
+180,18075A1205,KATPALLY RAKESH REDDY,MALE,IT,9,7,0,0,SSC,2014,St.Thomas high school,SBTET,2017,st.marys group of institutions,ECET,,1300,,oc,rakesh,k,,,6.4,6.6,6.5,nirmal,placements
+181,18075A1206,KOMMU ANIL,MALE,IT,9,91,0,0,SSC,2015,kakatiya techno school,SBTET,2018,govt polytechnic kothagudam,ECET,,42,,BC,Anil ,k,,,6.9,7.7,7.3,peddapalli,Placements
+182,18075A1207,LAAD SIDHARTH,MALE,IT,8.2,72,0,0,SSC,2015,bbc high school,SBTET,2018,Government polytechnic nizamabad,ECET,,2527,,ST,sidharth,L,,,6.3,6.09,6.19,nizamabad,Placements
+183,18075A1208,PILLI PAVAN KUMAR,MALE,IT,8.5,78,1,,SSC,2015,B.V.N High school,SBTET,2018,sree kavitha engineering college,ECET,,293,,SC,Pavan kumar,P,,,,6.2,6.2,Ramachandhrapeta,Placements
+184,18075A1209,SHILHORA AKSHAY,MALE,IT,8.7,79,0,0,SSC,2015,blue bells model school,SBTET,2018,vijay rural engineering college,ECET,,432,,OC,Akshay,S,,,6.6,7.5,7.05,pitlam,Placements
+185,18075A1210,SUMANTH KOKKULA,MALE,IT,9.5,79,0,0,CBSE,2015,Vikas The Concept School,SBTET,2018,VNR VJIET,ECET,,646,,BC-B,Sumanth,K,,,7,7.9,7.4,Hyderabad ,Placements 
+186,18075A1211,THALLAPALLY AKHILA,FEMALE,IT,8,69.9,6,,SSC,2011,vasanth valley high school,SBTET,2017,jyothishmathi institute of technology and science,ECET,,,,BC-B,Akhila,T,,,,6,,karimnagar,placements
+187,18075A1212,THUMU SAI CHANDRA,MALE,IT,9.7,88.56,0,0,SSC,2014,St Mary's high school,SBTET,2017,Government polytechnic Bellampally,ECET,,26,,BC-A,sai chandra,T,,,6.43,6.61,6.52,Bellampalli,Placements
+188,18075A1213,B M C RAGHURAM,MALE,IT,8.5,62,8,,SSC,2015,gowtham model school,SBTET,2018,"government polytechnic,masab tank",ECET,,1015,,OC,Raghu Ram,BMC,,,,,,Hyderabad,Placements
+189,18075A1214,CHIDARLA SRUJAN,MALE,IT,8.5,91.6,0,0,SSC,2015,T.S.R.School (boys) peddapur camp,SBTET,2018,Abdul kalam institute of technological & sciences,ECET,,49,,BC,SRUJAN,CH,,,6.5,6.7,6.6,MANTHANI,Placements
+190,18075A1215,CHITTURI SIVAKRISHNA,MALE,IT,7.2,75,7,,SSC,2014,Geetanjali vidyalayam,SBTET,2017,Abdul kalam institute of technolocal sciences ,ECET,,687,,BC,sivakrishna,Ch,,,,,,Kallur ,Placements
+191,18075A1216,GONE SHARATH CHANDRA,MALE,IT,7.8,73,2,0,SSC,2015,alphores high school,SBTET,2018,jyothishmathi institute of technology and sciences,ECET,,1798,,BC,sharathchandra,G,,,6,6.4,6.4,dharmaram,Placements
+192,18075A1217,GUMUDALA VENKATA SAI VARDHAN,MALE,IT,8.8,74.19,1,0,SSC,2015,st.mark's high school,SBTET,2018,vnr vignan jyothi institute of engg & tech,ECET,,10291,,OC,venkata sai vardhan,G,,,6.5,,,tandur,Placements
+193,18075A1218,GUNDA VIKAS,MALE,IT,9.3,89.29,0,0,SSC,2015,SPR HIGH SCHOOL,SBTET,2018,GOVERNMENT POLYTECHNIC KOTHAGUDEM,ECET,,32,,BC,Vikas,G,,,7.53,7.13,7.33,JANGAON ,Placements
+194,18075A1219,MOHAMMED TAYYAB,MALE,IT,8.2,70.52,8,1,SSC,2015,Triveni Talent School,SBTET,2018,Sphoorthy Engineering College,ECET,,5594,,BC,Tayyab,MD,,,,,,Palwancha,Placements
+195,18075A1220,MUTHKANI MAHESH,MALE,IT,8.7,63.08,9,0,SSC,2015,st.anthony's high school,SBTET,2018,vnr vignan jyothi institute of engg & tech,,,3604,,BC,Mahesh,M,,,,,,Hyderabad ,Placements
+196,18075A1221,PENMETSA VIJAY VARMA,MALE,IT,9.3,82.7,2,0,SSC,2012,st joseph high school,SBTET,2015,government polytechnic masab tank,ECET,,14165,,OC,Vijay Varma,P,,,5.2,6,6,hyderabad,Placements
+197,18075A1222,PILLI PRANEETH,MALE,IT,8.3,69.3,6,,SSC,2015,singareni high school,SBTET,2018,government polytechnic kothagudem,ECET,,314,,SC,Praneeth,P,,,,,,Yellandu,Placements
+198,18075A1223,PULISHETTY MANOJ,MALE,IT,8.2,77.93,1,1,SSC,2015,Ravi high school,SBTET,2018,Govt polytechnic nizamabad,ECET,,490,,BC-D,Manoj,p,,,,,,Nirmal,Placements
+199,18075A1224,SHAIK ARIF,MALE,IT,8.3,68.28,7,0,SSC,2015,Triveni Talent School,SBTET,2018,Abdul Kalam Institute of technological & science,ECET,,209,,BC-E,Arif,S,,,,,,Palwancha,Placements
+200,18075A1225,BHEEMAGANI NIKHIL KUMAR,MALE,IT,7.7,68.24,6,0,SSC,2015,Sri Sai Vidhyalay High School,SBTET,2018,TRR college of technology (polytechnic),ECET,,5050,,BC,Nikhil Kumar,B,,,,,,Hyderabad,Placements
+201,18075A1226,BOGA RAJU,MALE,IT,8.8,73.04,2,,SSC,2015,ZPHS Nittur,SBTET,2018,SGM GOVT POLYTECHNIC,ECET,,2493,,BC,RAJU,B,,,,,,PEDDAPALLI,Placements
+202,18075A1227,DONGRE CHARAN TEJA,MALE,IT,9,75,6,0,SSC,2015,holi trinity high school asifabad,SBTET,2018,sigareni colleries polytechnic,ECET,,271,,SC,charan teja,D,,,,,,WANKIDI,Placements
+203,18075A1228,G VENKATESHWAR REDDY,MALE,IT,8.8,85.7,0,0,SSC,2015,ushodaya talent school,SBTET,2018,TRR college of technology (polytechnic),ECET,,1121,,OC,venkateswar,G,,,7.65,6.09,6.87,wanaparthy,Placements
+204,18075A1229,GAJAVALLI SAI AMAL CHAITANYA,MALE,IT,8.7,88.22,0,0,SSC,2015,Bhashyam Public school,OTHERS,2018,CENTRAL INSTITUTE OF TOOL DESIGN,ECET,,100,,OC,SAI AMAL CHAITANYA,G,,,7.57,6.57,7.07,HYDERABAD,Placements
+205,18075A1230,JAKKULA SAGAR,MALE,IT,,73,10,,SSC,2015,yuva sanghatan high school,SBTET,2018,singareni colliers polytechnic,ECET,,315,,BC,SAGAR,J,,,,,,BELLAMPALLI,Placements
+206,18075A1231,MADOORI RAJENDER SWATHI,FEMALE,IT,7.7,72.5,1,0,SSC,2015,B.R.J.C Parsi High School,SBTET,2018,Smt. Durgabai Deshmukh govt womens technical training institute,ECET,,776,,BC,Swathi,M,,,6.3,,6.03,HYDERABAD,Placements
+207,18075A1232,NARRI BHANU PRASAD,MALE,IT,9,69.58,7,0,SSC,2015,Naagarjuna Model School,SBTET,2018,Jawaharlal Nehru Government Polytechnic,ECET,,1051,,BC,Bhanu Prasad,N,,,,,,Hyderabad,Placements
+208,18075A1233,THOTA ASHWINI,FEMALE,IT,9,87.2,0,0,SSC,2015,Gorkey public school,SBTET,2018,VNR Vignana Jyothi Institute of polytechnic,ECET,,10203,,BC,Ashwini,T,,,8.43,7.61,8.43,Hyderabad,Placements
+209,18075A1234,YALAGONDA SHIVA BHARGAVA,MALE,IT,9.2,84.42,7,,SSC,2014,zpss high school,SBTET,2017,governent polytechnic kothagudem,ECET,,41,,SC,shiva bhargav,y,,,,,,karakagudem,Placements
